@@ -1,7 +1,7 @@
 # atti
 
 <div>
- <h2>명령어</h2>
+ <h2>Getting Started</h2>
  
 ```bash
 ## FRONTEND Getting Started
