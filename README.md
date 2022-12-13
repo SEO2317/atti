@@ -3,16 +3,15 @@
 <div>
  <h2>명령어</h2>
  
- ## FRONTEND Getting Started
+```bash
+## FRONTEND Getting Started
 
 First, run the development server:
 
-```bash
+
 npm run dev
-# or
-yarn dev
  
-  ## BACKEND Getting Started 
+## BACKEND Getting Started 
 
 First, run the development server:
 
