@@ -1,10 +1,12 @@
 # atti
 
-<h2>
- 아띠의 상담소
-   $ npm start:dev
-  or
-  $ yarn start:dev
+<div>
+<h2>아띠의 상담소</h2>
+ <h3>FRONT 명령어</h3>
+ *$ npm run dev* 
+ <h3>BACK 명령어</h3>
+ *Run Application*
+</div>
 
 
 <h2>Stack</h2><br>
