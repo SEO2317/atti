@@ -2,8 +2,8 @@
 
 <h2>ERD</h2><br>
 
-<img src="![image](https://user-images.githubusercontent.com/107653158/207236732-8fed5461-c703-4b3b-8046-31c8eaac50aa.png)
-">
+![image](https://user-images.githubusercontent.com/107653158/207236777-5058920d-b1a7-4ac1-a82f-6841ef604b37.png)
+
 
 <h2>Stack</h2><br>
 <li>JAVA - 11</li>
