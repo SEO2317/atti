@@ -1,6 +1,16 @@
 # atti
 
 <div>
+<h2>Introduce team members</h2>
+문형기 - 
+이주용 - 
+천보라 - 
+서영석 - 
+
+</div>
+
+
+<div>
  <h2>Getting Started</h2>
  
 ```bash
