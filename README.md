@@ -29,7 +29,7 @@ npm run dev
 
 First, run the development server:
 
-```bash
+
 Run Application
 # or
 yarn dev
