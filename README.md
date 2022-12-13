@@ -54,7 +54,6 @@ https://documenter.getpostman.com/view/23568514/2s8YzTUNCC#662ef6bb-6a8d-4f4c-99
 
 <div>
 <h2>ERD</h2>
- [image](https://user-images.githubusercontent.com/107653158/207255517-c1acad73-c660-4a08-9f34-487983a2ec41.png)
 </div>
 
 <h2>Stack</h2><br>
