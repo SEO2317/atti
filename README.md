@@ -3,7 +3,7 @@
 
 <h2>Stack</h2><br>
 <li>JAVA - 11</li>
-<li>Next.JS - 18.2</li>
+<li>NEXT.JS - 18.2</li>
 <li>SPRING - 4.0.0</li>
 <li>ECLIPSE - 4.2</li>
 
