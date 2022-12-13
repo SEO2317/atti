@@ -1,7 +1,7 @@
 # atti
 
 <div>
- <h2>아띠의 상담소</h2>
+ <h2>명령어</h2>
  <ul>
   <li>FRONT</li>
   <ul>
