@@ -47,6 +47,10 @@ yarn dev
 
 </div>
 
+<div>
+API Docs(with POSTMAN)
+https://documenter.getpostman.com/view/23568514/2s8YzTUNCC#662ef6bb-6a8d-4f4c-99f0-72b0bab566a6
+</div>
 
 
 
