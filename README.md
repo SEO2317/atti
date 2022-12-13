@@ -4,6 +4,9 @@
  <h2>아띠의 상담소</h2>
  <ul>
   <li>FRONT</li>
+  <ul>
+      <li>npm run dev</li>
+  </ul>
   <li>BACK</li>
     <ul>
       <li>Run Application</li>
