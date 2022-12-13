@@ -49,7 +49,7 @@ yarn dev
 
 <div>
 <h2>API Docs(with POSTMAN)</h2>
-![화면 캡처 2022-12-13 164237](https://user-images.githubusercontent.com/107653158/207255692-851be9d7-032c-44e0-8794-ac332e3c13e5.png)
+https://documenter.getpostman.com/view/23568514/2s8YzTUNCC#662ef6bb-6a8d-4f4c-99f0-72b0bab566a6
 </div>
 
 <div>
