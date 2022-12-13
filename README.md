@@ -16,3 +16,27 @@
 <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=SpringBoot&logoColor=white">
 </p>
 </div>
+<div>
+<p>
+<h3>COLL</h3>
+<img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=white">
+<img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=SpringBoot&logoColor=white">
+</p>
+</div>
+<div>
+ <p>
+  <h3>Collaboration Tools</h3>
+ <img src="https://img.shields.io/badge/slack-4A154B?style=for-the-badge&logo=slack&logoColor=white">
+ <img src="https://img.shields.io/badge/zoom-1C9AD6?style=for-the-badge&logo=zoom&logoColor=white">
+ <img src="https://img.shields.io/badge/github-589465?style=for-the-badge&logo=github&logoColor=white">
+ <img src="https://img.shields.io/badge/discord-5865F2?style=for-the-badge&logo=discord&logoColor=white">
+ </p>
+</div>
+<div>
+ <p>
+  <h3>IDE</h3>
+ <img src="https://img.shields.io/badge/Eclipse IDE-456789?style=for-the-badge&logo=Eclipse IDE&logoColor=white">
+ <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=for-the-badge&logo=Visual Studio Code&logoColor=white">
+ <img src="https://img.shields.io/badge/IntelliJ IDEA-254685?style=for-the-badge&logo=IntelliJ IDEA&logoColor=white">
+ </p>
+</div>
