@@ -1,12 +1,15 @@
 # atti
 
 <div>
-<h2>아띠의 상담소</h2>
- <h3>FRONT 명령어</h3>
- *$ npm run dev* 
- <h3>BACK 명령어</h3>
- *Run Application*
-</div>
+ <h2>아띠의 상담소</h2>
+ <ul>
+  <li>FRONT</li>
+  <li>npm run dev</li>
+    <ul>
+      <li>BACK</li>
+      <li>Run Application</li>
+  </ul>
+</ul>
 
 
 <h2>Stack</h2><br>
