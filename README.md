@@ -1,18 +1,5 @@
 # atti
 
-<div>
-<h2>Introduce team members</h2>
-&nbsp;
-문형기 - <br>
-&nbsp;
-이주용 - <br>
-&nbsp;
-천보라 - <br>
-&nbsp;
-서영석 - <br>
-
-</div>
-
 
 <div>
  <h2>Getting Started</h2>
@@ -37,7 +24,23 @@ yarn dev
  ## DATABASE Started
  
  h2w.bat -> CONNECT
- ```
+```
+</div> 
+
+<div>
+<h2>Introduce team members</h2>
+&nbsp;
+문형기 - <br>
+&nbsp;
+이주용 - <br>
+&nbsp;
+천보라 - <br>
+&nbsp;
+서영석 - <br>
+
+</div>
+
+
 
 
 <h2>Stack</h2><br>
