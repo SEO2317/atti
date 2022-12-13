@@ -2,12 +2,13 @@
 
 <div>
 <h2>Introduce team members</h2>
+&nbsp;
 문형기 - <br>
- &nbsp;
+&nbsp;
 이주용 - <br>
- &nbsp;
+&nbsp;
 천보라 - <br>
- &nbsp;
+&nbsp;
 서영석 - <br>
 
 </div>
