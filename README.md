@@ -1,7 +1,7 @@
 # atti
 
 
-<h2>7. Stack</h2><br>
+<h2>Stack</h2><br>
 <li>JAVA - 11</li>
 <li>Next.JS - 18.2</li>
 <li>SPRING - 4.0.0</li>
