@@ -1,5 +1,4 @@
 # atti 아띠의 상담소
-![erd](https://user-images.githubusercontent.com/107653158/207259152-627a1a36-ce4a-4f1a-8a62-31b1e53a411f.png)
 <div>
  <h2>Getting Started</h2>
  
@@ -55,6 +54,7 @@ https://documenter.getpostman.com/view/23568514/2s8YzTUNCC#662ef6bb-6a8d-4f4c-99
 
 <div>
 <h2>ERD</h2>
+ ![erd](https://user-images.githubusercontent.com/107653158/207259152-627a1a36-ce4a-4f1a-8a62-31b1e53a411f.png)
 </div>
 
 <h2>Stack</h2><br>
