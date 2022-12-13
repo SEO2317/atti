@@ -2,10 +2,10 @@
 
 <div>
 <h2>Introduce team members</h2>
-문형기 - 
-이주용 - 
-천보라 - 
-서영석 - 
+문형기 - <br>
+이주용 - <br>
+천보라 - <br>
+서영석 - <br>
 
 </div>
 
