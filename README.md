@@ -2,16 +2,29 @@
 
 <div>
  <h2>명령어</h2>
- <ul>
-  <li>FRONT</li>
-  <ul>
-      <li>npm run dev</li>
-  </ul>
-  <li>BACK</li>
-    <ul>
-      <li>Run Application</li>
-  </ul>
-</ul>
+ 
+ ## FRONTEND Getting Started
+
+First, run the development server:
+
+```bash
+npm run dev
+# or
+yarn dev
+ 
+  ## BACKEND Getting Started 
+
+First, run the development server:
+
+```bash
+Run Application
+# or
+yarn dev
+ 
+ ## DATABASE Started
+ 
+ h2w.bat -> CONNECT
+ 
 
 
 <h2>Stack</h2><br>
