@@ -13,8 +13,8 @@ npm run dev
 ## BACKEND Getting Started 
 
 First, run the development server:
-
-
+ 
+ 
 Run Application
 # or
 yarn dev
@@ -30,6 +30,10 @@ yarn dev
  <P>카테고리(주제)별로 자유롭게 상담이든 질문이든 올리는 게시판</P>
 </div>
 
+<div>
+<h2>project development period</h2>
+ 2022-11-21 ~ 2022-12-14
+</div>
 <div>
 <h2>Introduce team members</h2>
 &nbsp;
