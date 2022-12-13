@@ -1,4 +1,5 @@
 # atti 아띠의 상담소
+![erd](https://user-images.githubusercontent.com/107653158/207259152-627a1a36-ce4a-4f1a-8a62-31b1e53a411f.png)
 <div>
  <h2>Getting Started</h2>
  
