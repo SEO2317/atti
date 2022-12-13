@@ -49,12 +49,12 @@ yarn dev
 
 <div>
 <h2>API Docs(with POSTMAN)</h2>
-https://documenter.getpostman.com/view/23568514/2s8YzTUNCC#662ef6bb-6a8d-4f4c-99f0-72b0bab566a6
+![화면 캡처 2022-12-13 164237](https://user-images.githubusercontent.com/107653158/207255692-851be9d7-032c-44e0-8794-ac332e3c13e5.png)
 </div>
 
 <div>
 <h2>ERD</h2>
- https://user-images.githubusercontent.com/107653158/207255364-2825655e-0b8a-443f-97ef-ad95d6c9fe7d.png
+ [image](https://user-images.githubusercontent.com/107653158/207255517-c1acad73-c660-4a08-9f34-487983a2ec41.png)
 </div>
 
 <h2>Stack</h2><br>
