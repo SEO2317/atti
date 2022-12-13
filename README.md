@@ -1,8 +1,10 @@
 # atti
 
-<h2>ERD</h2><br>
-
-![image](https://user-images.githubusercontent.com/107653158/207236777-5058920d-b1a7-4ac1-a82f-6841ef604b37.png)
+<h2>
+ 아띠의 상담소
+   $ npm start:dev
+  or
+  $ yarn start:dev
 
 
 <h2>Stack</h2><br>
