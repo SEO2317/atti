@@ -23,8 +23,7 @@ yarn dev
  
  h2w.bat -> CONNECT
 ```
-</div> 
-
+</div>
 <div>
 <h2>Development Topic</h2>
  <P>카테고리(주제)별로 자유롭게 상담이든 질문이든 올리는 게시판</P>
@@ -47,14 +46,15 @@ yarn dev
 
 </div>
 
+
+
+<h2>ERD</h2>
+ ![erd](https://user-images.githubusercontent.com/107653158/207259152-627a1a36-ce4a-4f1a-8a62-31b1e53a411f.png)
+
+
 <div>
 <h2>API Docs(with POSTMAN)</h2>
 https://documenter.getpostman.com/view/23568514/2s8YzTUNCC#662ef6bb-6a8d-4f4c-99f0-72b0bab566a6
-</div>
-
-<div>
-<h2>ERD</h2>
- ![erd](https://user-images.githubusercontent.com/107653158/207259152-627a1a36-ce4a-4f1a-8a62-31b1e53a411f.png)
 </div>
 
 <h2>Stack</h2><br>
