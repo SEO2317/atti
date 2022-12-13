@@ -24,7 +24,7 @@ yarn dev
  ## DATABASE Started
  
  h2w.bat -> CONNECT
- 
+ ```
 
 
 <h2>Stack</h2><br>
