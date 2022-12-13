@@ -17,13 +17,6 @@
 </p>
 </div>
 <div>
-<p>
-<h3>COLL</h3>
-<img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=white">
-<img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=SpringBoot&logoColor=white">
-</p>
-</div>
-<div>
  <p>
   <h3>Collaboration Tools</h3>
  <img src="https://img.shields.io/badge/slack-4A154B?style=for-the-badge&logo=slack&logoColor=white">
