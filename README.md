@@ -1,16 +1,15 @@
 # atti 아띠의 상담소
-### [Getting Started] (#Getting Started)
-### [Development Topic] (#Development Topic)
-### [Project Development Period] (#Project Development Period)
-### [Introduce team members] (#Introduce team members)
-### [API Docs(with POSTMAN)] (#API Docs(with POSTMAN))
-### [UML] (#UML)
-### [Stack] (#Stack)
-### [Front] (#Front)
-### [Backend] (#Back)
-### [Collaboration Tools] (#Collaboration Tools)
-### [IDE] (#IDE)
-
+[Getting Started] (#Getting Started)
+[Development Topic] (#Development Topic)
+[Project Development Period] (#Project Development Period)
+[Introduce team members] (#Introduce team members)
+[API Docs(with POSTMAN)] (#API Docs(with POSTMAN))
+[UML] (#UML)
+[Stack] (#Stack)
+[Front] (#Front)
+[Backend] (#Back)
+[Collaboration Tools] (#Collaboration Tools)
+[IDE] (#IDE)
 
 
 <div>
