@@ -54,8 +54,7 @@ https://documenter.getpostman.com/view/23568514/2s8YzTUNCC#662ef6bb-6a8d-4f4c-99
 
 <h2>UML</h2>
 <div align="center">
-
-![erd](https://user-images.githubusercontent.com/107653158/207259528-a731d2dd-6bcc-45da-91e3-161eeab840a1.png)
+<img src="https://user-images.githubusercontent.com/107653158/207259528-a731d2dd-6bcc-45da-91e3-161eeab840a1.png" width=100% height=100%/>
 </div>
 
 
