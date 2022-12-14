@@ -1,4 +1,16 @@
 # atti 아띠의 상담소
+### Getting Started  
+### Development Topic
+### Project Development Period
+### Introduce team members
+### API Docs(with POSTMAN)
+### UML
+### Stack
+### Front
+### Backend
+### Collaboration Tools
+### IDE
+
 
 
 <div>
@@ -32,7 +44,7 @@ yarn dev
 </div>
 
 <div>
-<h2>project development period</h2>
+<h2>Project Development Period</h2>
  2022-11-21 ~ 2022-12-14
 </div>
 <div>
@@ -54,9 +66,10 @@ https://documenter.getpostman.com/view/23568514/2s8YzTUNCC#662ef6bb-6a8d-4f4c-99
 </div>
 
 
-<h2>erd</h2>
+<h2>UML</h2>
 
 ![erd](https://user-images.githubusercontent.com/107653158/207259528-a731d2dd-6bcc-45da-91e3-161eeab840a1.png)
+
 
 
 
