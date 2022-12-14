@@ -52,7 +52,7 @@ yarn dev
 https://documenter.getpostman.com/view/23568514/2s8YzTUNCC#662ef6bb-6a8d-4f4c-99f0-72b0bab566a6
 </div>
 
-h2>UML</h2>
+<h2>UML</h2>
 <div align="center">
 
 ![erd](https://user-images.githubusercontent.com/107653158/207259528-a731d2dd-6bcc-45da-91e3-161eeab840a1.png)
