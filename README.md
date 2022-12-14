@@ -37,13 +37,13 @@ yarn dev
 <div>
 <h2>Introduce team members</h2>
 &nbsp;
-문형기 - <br>
+이주용 - 프론트 전반<br>
 &nbsp;
-이주용 - <br>
+천보라 - 프론트 전반<br>
 &nbsp;
-천보라 - <br>
+문형기 - 백 전반 및 연동 일부<br>
 &nbsp;
-서영석 - <br>
+서영석 - 백 전반 및 css 일부<br>
 
 </div>
 
@@ -52,11 +52,11 @@ yarn dev
 https://documenter.getpostman.com/view/23568514/2s8YzTUNCC#662ef6bb-6a8d-4f4c-99f0-72b0bab566a6
 </div>
 
-
-<h2>UML</h2>
+h2>UML</h2>
+<div align="center">
 
 ![erd](https://user-images.githubusercontent.com/107653158/207259528-a731d2dd-6bcc-45da-91e3-161eeab840a1.png)
-
+</div>
 
 
 
@@ -69,8 +69,6 @@ https://documenter.getpostman.com/view/23568514/2s8YzTUNCC#662ef6bb-6a8d-4f4c-99
 <div>
 <p>
 <h3>Front</h3>
-<img src="https://img.shields.io/badge/html-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-<img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white">
 <img src="https://img.shields.io/badge/Tailwind CSS-06B6D4?style=for-the-badge&logo=Tailwind CSS&logoColor=black">
 <img src="https://img.shields.io/badge/next.js-4FC08D?style=for-the-badge&logo=next.js&logoColor=white">
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white">
@@ -87,7 +85,6 @@ https://documenter.getpostman.com/view/23568514/2s8YzTUNCC#662ef6bb-6a8d-4f4c-99
  <p>
   <h3>Collaboration Tools</h3>
  <img src="https://img.shields.io/badge/slack-4A154B?style=for-the-badge&logo=slack&logoColor=white">
- <img src="https://img.shields.io/badge/zoom-1C9AD6?style=for-the-badge&logo=zoom&logoColor=white">
  <img src="https://img.shields.io/badge/github-589465?style=for-the-badge&logo=github&logoColor=white">
  <img src="https://img.shields.io/badge/discord-5865F2?style=for-the-badge&logo=discord&logoColor=white">
  </p>
@@ -95,7 +92,7 @@ https://documenter.getpostman.com/view/23568514/2s8YzTUNCC#662ef6bb-6a8d-4f4c-99
 <div>
  <p>
   <h3>IDE</h3>
- <img src="https://img.shields.io/badge/Eclipse IDE-456789?style=for-the-badge&logo=Eclipse IDE&logoColor=white">
+<img src="https://img.shields.io/badge/Eclipse IDE-456789?style=for-the-badge&logo=Eclipse IDE&logoColor=white">
  <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=for-the-badge&logo=Visual Studio Code&logoColor=white">
  <img src="https://img.shields.io/badge/IntelliJ IDEA-254685?style=for-the-badge&logo=IntelliJ IDEA&logoColor=white">
  </p>
